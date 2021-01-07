@@ -1,0 +1,12 @@
+apt update -y
+apt upgrade -y
+apt install curl -y
+
+clear
+curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
+
+
+figlet THANKS FOR USING ME
+
+figlet -w 200 -f  small "By
+H3LLO H4CK3R"
